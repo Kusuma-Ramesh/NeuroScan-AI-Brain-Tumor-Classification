@@ -1,0 +1,20 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+
+# Dataset files
+data/Tumour/
+*.zip
+
+# Streamlit cache
+.streamlit/cache/
+
+# Python / IDE files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
